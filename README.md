@@ -1,4 +1,4 @@
-# HarvardCS50-Week2-Plurality
+# HarvardCS50-Week3-Plurality
 
 CS50's Introduction to Computer Science
 Week 3, Problem Set 3
